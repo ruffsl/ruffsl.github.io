@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://ruffsl.github.io/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://ruffsl.github.io/sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://ruffsl.github.io</loc>
-		<lastmod>2014-03-14T05:25:45+00:00</lastmod>
+		<lastmod>2014-03-25T22:37:50+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1</priority>
 	</url>
 	<url>
 		<loc>http://ruffsl.github.io/2013/11/multi-party-capacity-constrained-route-planning/</loc>
-		<lastmod>2014-03-06T18:07:56+00:00</lastmod>
+		<lastmod>2014-03-25T05:52:29+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
